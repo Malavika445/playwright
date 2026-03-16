@@ -1,4 +1,0 @@
-Dialog message: Today is a working day.
-Or less likely a holiday.
-Dialog message: Today is a working day.
-Or less likely a holiday.
